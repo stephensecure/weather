@@ -18,7 +18,6 @@ npm start
 # Serve site in 'watch' mode, automatically open default browser
 npm run serve
 
-
 By default, the JSON server runs at `http://localhost:3000`, 
 
 To run the test suites, you can use the following commands:
